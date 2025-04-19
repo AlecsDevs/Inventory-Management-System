@@ -1,4 +1,4 @@
-📦 Inventory Management System (Console-Based)
+# 📦 Inventory Management System (Console-Based)
 
 A console-based Inventory Management System written in C++. This application allows users to manage item records including adding, editing, deleting, searching, buying items, and displaying inventory. Data is stored in a local text file (inventory.txt).
 
